@@ -1,3 +1,4 @@
+"use client";
 import { useState } from "react";
 import Tesseract from "tesseract.js";
 
